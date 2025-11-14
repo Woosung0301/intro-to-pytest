@@ -6,9 +6,9 @@ In this exercise, you will practice using pytest to test a simple command-line c
 
 ### Instructions
 
-1. Create a new directory for this exercise and navigate to it in your terminal.
+<!-- 1. Create a new directory for this exercise and navigate to it in your terminal. -->
 
-2. Inside the directory, create a Python file named `calculator.py` with the following code:
+<!-- 2. Inside the directory, create a Python file named `calculator.py` with the following code: -->
 
    ```python
    import sys
@@ -39,7 +39,7 @@ In this exercise, you will practice using pytest to test a simple command-line c
        print(f"Result: {result}")
    ```
 
-3. Create a new Python file named `test_calculator.py` for writing test cases.
+<!-- 3. Create a new Python file named `test_calculator.py` for writing test cases. -->
 
 4. In `test_calculator.py`, write test cases using pytest for the `calculate` function and the command-line behavior. Include tests for functional correctness, terminal output, and argument passing using monkeypatch.
 
@@ -65,7 +65,7 @@ In this exercise, you will practice using pytest to test a simple command-line c
   
    ```
 
-5. Open your terminal and navigate to the exercise directory.
+<!-- 5. Open your terminal and navigate to the exercise directory. -->
 
 6. Run the tests using the following command:
 
